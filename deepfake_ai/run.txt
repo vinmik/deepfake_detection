@@ -1,0 +1,1 @@
+python detect_from_video.py --video_path ./videos/003_000.mp4 --model_path ./pre/flattened.pkl -o ./output 
